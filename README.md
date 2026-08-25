@@ -44,7 +44,7 @@ Existem duas formas de rodar este projeto: **Google Colab** (mais simples, sem i
 **Passo 1 — Clone o repositório**
 ```bash
 git clone https://github.com/romulooliverr/Tech-Challenge-GP15
-cd techchallengegp15
+cd Tech-Challenge-GP15
 ```
 
 **Passo 2 — Crie um ambiente virtual (recomendado)**
