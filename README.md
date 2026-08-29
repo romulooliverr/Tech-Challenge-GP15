@@ -49,7 +49,8 @@ cd Tech-Challenge-GP15
 
 **Passo 2 — Crie um ambiente virtual (recomendado)**
 ```bash
-python -m venv venv
+python -m venv venv             # Linux
+python3 -m venv venv            # Mac
 source venv/bin/activate        # Linux/Mac
 venv\Scripts\activate           # Windows
 ```
